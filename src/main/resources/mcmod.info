@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forgemod42",
+  "name": "ForgeMod42",
+  "description": "Example forge mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["BlueAnanas"],
+  "credits": "To all the MCP and Forge contributors",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
